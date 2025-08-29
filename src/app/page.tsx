@@ -124,7 +124,7 @@ export default function Home() {
           <div>
             <h4 className="text-xl font-semibold">Ready to talk?</h4>
             <p className="mt-1 text-zinc-300">
-              We’re lining up industry partners in robotic frame manufacturing. Let’s see if there’s a fit.
+              We're lining up industry partners in robotic frame manufacturing. Let's see if there's a fit!
             </p>
           </div>
 {/*           <a href="mailto:team@brainavigation.ai"
